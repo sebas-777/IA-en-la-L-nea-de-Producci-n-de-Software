@@ -39,4 +39,4 @@ A través de este análisis, se busca proporcionar una comprensión profunda del
 
 ## [Capítulo 7: Conclusiones](conclusiones.md)  
  [7.1 Resumen de los puntos clave](conclusiones.md#resumen)  
- [7.2 Recomendaciones para desarrolladores y empresas](conclusiones.md#recomendaciones)  
+ [7.2 Recomendaciones para desarrolladores y empresa](conclusiones.md#recomendaciones)  
