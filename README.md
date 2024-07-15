@@ -10,11 +10,11 @@ A través de este análisis, se busca proporcionar una comprensión profunda del
  [1.1 Impacto de la IA en el desarrollo de software](introduction.md#impacto-de-la-ia-en-el-desarrollo-de-software)  
  [1.2 Objetivos del artículo](introduction.md#objetivos-del-articulo)  
 
-## [Capítulo 2: Herramientas de IA en el desarrollo de software actual](herramientas.md)  
- [2.1 Asistentes de codificación (ej. GitHub Copilot, TabNine, etc)](herramientas.md#asistentes-de-codificacion)  
- [2.2 Plataformas de automatización de pruebas](herramientas.md#plataformas-de-automatizacion-de-pruebas)  
- [2.3 Herramientas de análisis de código y detección de errores](herramientas.md#herramientas-de-analisis-de-codigo)  
- [2.4 Sistemas de recomendación para optimización de código](herramientas.md#sistemas-de-recomendacion)  
+## [Capítulo 2: Herramientas de IA en el desarrollo de software actual](chapter2.md)  
+ [2.1 Asistentes de codificación (ej. GitHub Copilot, TabNine, etc)](chapter2.md#asistentes-de-codificacion)  
+ [2.2 Plataformas de automatización de pruebas](chapter2.md#plataformas-de-automatizacion-de-pruebas)  
+ [2.3 Herramientas de análisis de código y detección de errores](chapter2.md#herramientas-de-analisis-de-codigo)  
+ [2.4 Sistemas de recomendación para optimización de código](chapter2.md#sistemas-de-recomendacion)  
 
 ## [Capítulo 3: Metodologías de desarrollo de software potenciadas por IA](metodologias.md)  
  [3.1 DevOps y MLOps](metodologias.md#devops-y-mlops)  

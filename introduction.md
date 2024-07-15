@@ -86,9 +86,9 @@ Este artículo busca proporcionar a los líderes de desarrollo de software y a l
 
 ## Referencias
 
-[1] Gartner, "Predicts 2021: Artificial Intelligence", https://www.gartner.com/en/documents/3993831
+[1] Gartner, "Predicts 2021: Artificial Intelligence", [https://www.gartner.com/en/documents/3993831]
 
-[2] McKinsey & Company, "The state of AI in 2021", https://www.mckinsey.com/capabilities/quantumblack/our-insights/global-survey-the-state-of-ai-in-2021
+[2] McKinsey & Company, "The state of AI in 2021", [https://www.mckinsey.com/capabilities/quantumblack/our-insights/global-survey-the-state-of-ai-in-2021]
 
 [3] "AI-Assisted Software Development", IEEE Software, 2022
 
