@@ -12,7 +12,7 @@ Este artículo explorará cómo la IA está transformando las fábricas de softw
 
 ![imagen 2](./img/Designer1.jpeg)
 
-## [1.1 Impacto de la IA en el desarrollo de software](introduccion.md#impacto-de-la-ia-en-el-desarrollo-de-software)
+## [1.1 Impacto de la IA en el desarrollo de software](introduction.md#impacto-de-la-ia-en-el-desarrollo-de-software)
 
 La integración de la Inteligencia Artificial (IA) en las fábricas de software está redefiniendo los paradigmas tradicionales del desarrollo, ofreciendo beneficios significativos y presentando nuevos desafíos.
 
@@ -112,4 +112,6 @@ Este artículo busca proporcionar a los líderes de desarrollo de software y a l
 
 [13] "DevOps and MLOps: Bridging the Gap in AI-Driven Software Development", IEEE Software, 2022
 
-[14] "Tracking Emerging Technologies in Software Engineering", ACM Queue, 2023
+[14] "Tracking Emerging Technologies in Software Engineering", ACM Queue, 2023 
+
+[Inicio](README.md)

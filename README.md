@@ -6,9 +6,9 @@ A través de este análisis, se busca proporcionar una comprensión profunda del
 
 ![image 1](./img/Designer.jpeg)
 
-## [Capítulo 1: Introducción](introduccion.md)  
- [1.1 Impacto de la IA en el desarrollo de software](introduccion.md#impacto-de-la-ia-en-el-desarrollo-de-software)  
- [1.2 Objetivos del artículo](introduccion.md#objetivos-del-articulo)  
+## [Capítulo 1: Introducción](introduction.md)  
+ [1.1 Impacto de la IA en el desarrollo de software](introduction.md#impacto-de-la-ia-en-el-desarrollo-de-software)  
+ [1.2 Objetivos del artículo](introduction.md#objetivos-del-articulo)  
 
 ## [Capítulo 2: Herramientas de IA en el desarrollo de software actual](herramientas.md)  
  [2.1 Asistentes de codificación (ej. GitHub Copilot, TabNine, etc)](herramientas.md#asistentes-de-codificacion)  
