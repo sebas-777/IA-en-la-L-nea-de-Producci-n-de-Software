@@ -10,11 +10,17 @@ A través de este análisis, se busca proporcionar una comprensión profunda del
  [1.1 Impacto de la IA en el desarrollo de software](introduction.md#impacto-de-la-ia-en-el-desarrollo-de-software)  
  [1.2 Objetivos del artículo](introduction.md#objetivos-del-articulo)  
 
-## [Capítulo 2: Herramientas de IA en el desarrollo de software actual](chapter2.md)  
- [2.1 Asistentes de codificación (ej. GitHub Copilot, TabNine, etc)](chapter2.md#asistentes-de-codificacion)  
- [2.2 Plataformas de automatización de pruebas](chapter2.md#plataformas-de-automatizacion-de-pruebas)  
- [2.3 Herramientas de análisis de código y detección de errores](chapter2.md#herramientas-de-analisis-de-codigo)  
- [2.4 Sistemas de recomendación para optimización de código](chapter2.md#sistemas-de-recomendacion)  
+## [Capítulo 2: Prompting eficiente en ChatGPT desde cero](chapter2.md)  
+ [2.1 ¿Qué es GPT?](chapter3.md#¿Qué-es-GPT?)
+ [2.2. ¿Por qué es importante GPT?](chapter3.md#¿por-quím-es-importante-GPT?)
+ [2.3  Mejores Prácticas para Formular Prompts Claros, Concisos y Específicos](chapter3.md)	
+ 
+
+## [Capítulo 3: Herramientas de IA en el desarrollo de software actual](chapter2.md)  
+ [3.1 Asistentes de codificación (ej. GitHub Copilot, TabNine, etc)](chapter2.md#asistentes-de-codificacion)  
+ [3.2 Plataformas de automatización de pruebas](chapter2.md#plataformas-de-automatizacion-de-pruebas)  
+ [3.3 Herramientas de análisis de código y detección de errores](chapter2.md#herramientas-de-analisis-de-codigo)  
+ [3.4 Sistemas de recomendación para optimización de código](chapter2.md#sistemas-de-recomendacion)  
 
 ## [Capítulo 3: Metodologías de desarrollo de software potenciadas por IA](metodologias.md)  
  [3.1 DevOps y MLOps](metodologias.md#devops-y-mlops)  
@@ -35,8 +41,12 @@ A través de este análisis, se busca proporcionar una comprensión profunda del
 ## [Capítulo 6: El futuro del desarrollo de software con IA](futuro.md)    
  [6.1 Evolución de los roles en el desarrollo de software](futuro.md#evolucion-de-roles)  
  [6.2 Integración de IA en todo el ciclo de vida del software](futuro.md#integracion-de-ia)  
- [6.3 Perspectivas de la industria y pronósticos](futuro.md#perspectivas-y-pronosticos)  
+ [6.3 Perspectivas de la industria y pronósticos](futuro.md#perspectivas-y-pronosticos) 
 
-## [Capítulo 7: Conclusiones](conclusiones.md)  
+ ## [Capítulo 7: Generative AI professional Certification](generativeAI.md)  
+ [7.1 Resumen de los puntos clave](conclusiones.md#resumen)  
+ [7.2 Recomendaciones para desarrolladores y empresa](conclusiones.md#recomendaciones)   
+
+## [Capítulo 8: Conclusiones](conclusiones.md)  
  [7.1 Resumen de los puntos clave](conclusiones.md#resumen)  
  [7.2 Recomendaciones para desarrolladores y empresa](conclusiones.md#recomendaciones)  

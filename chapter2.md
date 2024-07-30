@@ -2,7 +2,7 @@
 
 ## Herramientas de IA en el desarrollo de software actual
 
-## 2.1 Asistentes de codificación (ej. GitHub Copilot, TabNine, etc)
+## 3.1 Asistentes de codificación (ej. GitHub Copilot, TabNine, etc)
 
 En el contexto de las Fábricas de Software 4.0, los asistentes de codificación han emergido como herramientas clave para aumentar la productividad y mejorar la calidad del software. Estos asistentes, como GitHub Copilot y TabNine, utilizan inteligencia artificial para ofrecer sugerencias de código, completado automático y otras funcionalidades que facilitan el proceso de desarrollo. A continuación, se presenta un análisis de estas herramientas y su impacto en la industria del software.
 
